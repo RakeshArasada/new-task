@@ -132,8 +132,7 @@ function Footer() {
         </div>
             <p className='text-white fs-6 ms-auto my-4'>2013-2022 &copy; Oravel Stays Limited</p>
   </footer>
-</div>
-
+  </div>
   )
 }
 
